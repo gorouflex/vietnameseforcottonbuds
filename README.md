@@ -8,4 +8,6 @@ A Vietnamese translate for Cotton Buds
 - Multiply = ?? (Tạm dịch thành Hệ số)
 
 Được nhắc đến trong phần Thông tin của Cotton Buds :D
+
+
 ![image](https://user-images.githubusercontent.com/98001973/234882348-1f63bc3f-3aa8-4e63-916b-0e28a7d096de.png)
