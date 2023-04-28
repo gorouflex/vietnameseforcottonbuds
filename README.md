@@ -5,7 +5,8 @@ Cấu trúc Release:
 
 Version (Phiên bản) 3.x_x (số lần tái bản) hoặc chú thích của phiên bản
 
-Vd: Version 3.6_2 --> Phiên bản 3.6 tái bản lần 2 (chính thức)
+Vd: 
+    Version 3.6_2 --> Phiên bản 3.6 tái bản lần 2 (chính thức)
 
     Version 3.6_2_Test1 --> Phiên bản test 3.6 tái bản lần 2 giai đoạn 1 (beta)
     
