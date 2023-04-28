@@ -1,11 +1,11 @@
 # Vietnamese for Cotton Buds
 A Vietnamese translate for Cotton Buds
 
-## Có 1 số từ tôi chưa thể dịch hoặc hiểu được :
-- Show chest pointer = ?? (Tạm dịch thành Hiện con trỏ điều hướng đến rương)
-- Stats Multiplier = ?? (Tạm dịch thành Hệ số chỉ số)
-- Multiplier = ?? có thể là Cấp số nhân hay số lần (Tạm dịch thành Hệ số)
-- Multiply = ?? (Tạm dịch thành Hệ số)
+Cấu trúc Release:
+
+Version (Phiên bản) 3.x_x (số lần tái bản)
+
+Vd: Version 3.6_2 --> Phiên bản 3.6 tái bản lần 2
 
 Được nhắc đến trong phần Thông tin của Cotton Buds :D
 
