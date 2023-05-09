@@ -1,7 +1,7 @@
 # Vietnamese for Cotton Buds
 A Vietnamese translate for Cotton Buds
 
-Cấu trúc Release:
+Cấu trúc Releases:
 
 Version (Phiên bản) 3.x_x (số lần tái bản) hoặc chú thích của phiên bản
 
